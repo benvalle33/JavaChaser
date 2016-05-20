@@ -10,12 +10,19 @@ ORIGINAL PRODUCT ARE CLEARLY NOTED AND CREDIT IS GIVEN TO BENJAMIN C. VALLE. (be
 HOW TO USE:
 **********
 First, make sure you have ALL included files:
+
 -Chaser.class
+
 -Chaser.html
+
 -Sprite.class
+
 -Enemy.class
+
 -Player.class
+
 -Expo.class
+
 
 This is a Java™ applet and as such can be used in 2 ways:
 -It can be embedded in a wepage, details on how to do this are not included here, but can be found in the Java™
