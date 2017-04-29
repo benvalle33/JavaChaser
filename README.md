@@ -1,5 +1,5 @@
 # JavaChaser
-A simple Java Applet game that can be used as a loading screen while something else is loaded in the background, or simply played for fun. Open source IDGAF License.
+A simple Java Applet game that can be used as a loading screen while something else is loaded in the background, or simply played for fun. Open source Licensed under modified GPLv3, extra terms below.
 
 LISCENSE:
 ********
